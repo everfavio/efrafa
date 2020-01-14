@@ -6,10 +6,11 @@ image = "img/portfolio/business-card-26.jpg"
 showonlyimage = false
 weight = 1
 +++
-### 1. Auxiliary verbs
 
 We use be, have and do to form tenses, questions and negative forms, and we use themin short answers, questions tags, etc.
 <!--more-->
+
+### 1. Auxiliary verbs
 
 In all the case they are called auxiliary verbs.
 
@@ -44,44 +45,9 @@ In all the case they are called auxiliary verbs.
 
 - We form many questions with wh- words and phrases.
 
-
-<table>
-  <tr>
-    <th>Option</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td>data</td>
-    <td>path to data files to supply the data that will be passed into templates.</td>
-  </tr>
-  <tr>
-    <td>engine</td>
-    <td>engine to be used for processing templates. Handlebars is the default.</td>
-  </tr>
-  <tr>
-    <td>ext</td>
-    <td>extension to be used for dest files.</td>
-  </tr>
-</table>
-
 <div class="table">
-
-| Disk 0 | Disk 1 | Disk 2 | Disk 3 |
-|:------:|:------:|:------:|:-------:|
-|   A1   |   A2   |   A3   | Ap(1-3) |
-|   A4   |   A5   |   A6   | Ap(4-6) |
-|   B1   |   B2   |   B3   | Bp(1-3) |
-|   B4   |   B5   |   B6   | Bp(4-6) |
-
-</div>
-
-| Option | Description |
-| ------ | ----------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
-
-
+| fdas|adsf|fd|
+|:------:|:------:|:------:|
 | when...?                         	| Where...?         	| What...?         	|
 | Which...?                        	| Why...?           	| Who...?          	|
 | Whose...?                        	| How...?           	| What kind of...? 	|
@@ -89,3 +55,15 @@ In all the case they are called auxiliary verbs.
 | Which book/school/woman, etc...? 	| How many...?      	|                  	|
 | How much...?                     	| How often...?     	| How old...?      	|
 | What exactly...?                 	| Where exactly...? 	| Why exactly...?  	|
+</div>
+
+<div class="table">
+
+| Disk 0 | Disk 1 | Disk 2 |  Disk 3 |
+|:------:|:------:|:------:|:-------:|
+|   A1   |   A2   |   A3   | Ap(1-3) |
+|   A4   |   A5   |   A6   | Ap(4-6) |
+|   B1   |   B2   |   B3   | Bp(1-3) |
+|   B4   |   B5   |   B6   | Bp(4-6) |
+
+</div>

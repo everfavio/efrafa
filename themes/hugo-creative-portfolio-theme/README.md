@@ -37,6 +37,7 @@ You can change the color of the theme by modifying the following key.
 style = "default"
 ```
 
+
 Available options are: `default` (pink), `blue`, `green`, `pink`, `red`, `sea`, `violet`.
 
 ### More style customizations?
